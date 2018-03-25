@@ -25,7 +25,7 @@ export default class BelajarLayout extends React.Component {
         <View style={styles.button}><Text style={styles.text}>R2</Text></View>
       </View>
       <View style={styles.box5}>
-          <Text style={{ textAlign: 'center', padding: 30, fontSize: 20 }}>LI(E)FE</Text>
+          <Text style={{ textAlign: 'center', padding: 30, fontSize: 20 }}>Click Me</Text>
       </View>
 
 </View>
